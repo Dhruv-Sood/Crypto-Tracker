@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bell{
+    height: 35px;
+    width: 35px;
+    cursor: pointer;
+    
+}
+body{
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk3ZTNjZXk4aXk1aGsxNmVwajd0dnFrYmd0a2xjZm1wM21zbDBzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex6kAKAoFRsFh6M/giphy.gif");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    opacity: 0.9;
+    padding: 10px 0;
+    transition: 0.6s;
+    position: fixed;
+}
